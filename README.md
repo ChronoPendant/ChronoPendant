@@ -1,5 +1,5 @@
 # 크로노 펜던트
 
-Chrono Pendant
+![ChronoPendant.github.io]
 
 Made with JavaScript
